@@ -1,5 +1,5 @@
-export default Home;
-
 function Home () {
-    return <h1 class>Teste</h1>
+    return <h1 class>Nossos sentidos serão digitalmente aprimorados!</h1>
 }
+
+export default Home;
